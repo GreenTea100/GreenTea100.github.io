@@ -22,4 +22,6 @@
 ---
 **22.03.19**<br>
 가상 머신 프로그램 "VMware" 설치<br>
-<img src="https://user-images.githubusercontent.com/81478007/159494684-e5eefb0c-5b46-4ed0-ba21-4d05e4ecefab.PNG" width="420"><br><br>운영체제 "Ubuntu" 설치
+<img src="https://user-images.githubusercontent.com/81478007/159494684-e5eefb0c-5b46-4ed0-ba21-4d05e4ecefab.PNG" width="420"><br><br>
+운영체제 "Ubuntu" 설치<br>
+<img src="https://user-images.githubusercontent.com/81478007/159498643-49eb077f-6d67-4ffb-a635-6f3394931da4.PNG" width="500">
