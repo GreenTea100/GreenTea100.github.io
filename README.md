@@ -21,10 +21,11 @@
 
 ---
 **22.03.19**<br>
-가상 머신 프로그램 "VMware" 설치<br>
+가상머신 "VMware" 설치<br>
 <img src="https://user-images.githubusercontent.com/81478007/159494684-e5eefb0c-5b46-4ed0-ba21-4d05e4ecefab.PNG" width="420"><br><br>
-운영체제 "Ubuntu" 설치<br>
+리눅스 운영체제 "Ubuntu" 설치<br>
 <img src="https://user-images.githubusercontent.com/81478007/159498643-49eb077f-6d67-4ffb-a635-6f3394931da4.PNG" width="500"><br>
+
 ---
 **22.03.21**<br>
-안드로이드 스튜디오에서 제공하는 AVD는 무거워서 
+안드로이드 스튜디오에서 제공하는 AVD는 무거워서 nox 
