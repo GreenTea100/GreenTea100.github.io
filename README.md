@@ -36,6 +36,7 @@ USB디버깅을 허용하고, 디바이스 연결에 성공했다.<br>
 <img src="https://user-images.githubusercontent.com/81478007/159784651-ae54e458-2359-4c3d-bdbb-1370f12d8107.PNG" width="500"><br>
 <img src="https://user-images.githubusercontent.com/81478007/159784657-f85422dc-25b3-43f7-a58b-a347c9f9a3ee.PNG"><br><br>
 
+플러터에서는 모든 기본 단위들을 Widget으로 부른다.<br>
 StatelessWidget은 정적인 변하지 않는 위젯<br>
 ```Dart
 class MyApp extends StatelessWidget {
@@ -57,6 +58,7 @@ setState(() {
 <br><br>
 ---
 **22.03.22**<br>
-
+NavigationBar를 만들고, 홈화면의 위젯들을 구상해보았다.<br> 
+body를 차례대로 작성하고, body안에 Row를 배치하고 또 안에 Column을 넣어서 누적주행거리랑 평균 연비 항목을 넣었다.<br>
 
 
