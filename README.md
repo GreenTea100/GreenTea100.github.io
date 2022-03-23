@@ -59,6 +59,6 @@ setState(() {
 ---
 **22.03.22**<br>
 NavigationBar를 만들고, 홈화면의 위젯들을 구상해보았다.<br> 
-body를 차례대로 작성하고, body안에 Row를 배치하고 또 안에 Column을 넣어서 누적주행거리랑 평균 연비 항목을 넣었다.<br>
-
+body를 차례대로 작성하고, body안에 Row를 배치하고, 그 안에 Column을 넣어서 '누적주행거리'랑 '평균연비' 항목을 넣었다.<br>
+<img src="https://user-images.githubusercontent.com/81478007/159795988-930b54d8-8b85-4e70-b43d-c90d39446d56.PNG" width="400"><br>
 
