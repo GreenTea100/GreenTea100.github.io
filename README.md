@@ -28,4 +28,5 @@
 
 ---
 **22.03.21**<br>
-안드로이드 스튜디오에서 제공하는 AVD는 무거워서 nox 
+안드로이드 스튜디오에서 제공하는 AVD는 무거워서 Nox를 설치했다.<br>
+<img src="https://user-images.githubusercontent.com/81478007/159784081-96b722b9-7eb3-4baa-8a76-ac2557d4e7a1.PNG" width="420"><br>
