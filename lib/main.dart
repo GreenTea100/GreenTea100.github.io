@@ -51,10 +51,11 @@ class _MyHomePageState extends State<MyHomePage> {
           Text("0Km", style: TextStyle(fontSize: 16)),
         ],)
     ],);
-    var textSection = Text("리스트",);
+    var textSection = Text("리스트!",);
 
 
     return Scaffold(
+
       appBar: AppBar(title: Text(widget.title),),
       body: Column(children: <Widget>[
         //Image.network("https://w.namu.la/s/fe3d77431ce0579466e7b06e5785af8c288f674fa3cc7fd8955ced8af3e63b3ee4782420ac9a3b54b5d2056479055c2663f37b7509b9dbd6122fdde99108d3c07f099598914482d446331ab9380d6070f33d61168ece6128c1e838ea04a46746",height: 240, width: 600,fit:BoxFit.cover),
