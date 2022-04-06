@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           //Text("0Km", style: TextStyle(fontSize: 20)),
         ],)
     ],);
-    var textSection = Text("",);
+    var textSection = Text(".",);
 
     int screenIndex = 0;
     List<Widget> screenList = [const Text('홈스크린'), const Text('찾기 스크린'), const Text('계시판 스크린'), const Text('설정 스크린')];

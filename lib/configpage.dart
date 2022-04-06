@@ -33,7 +33,7 @@ class configpage extends StatelessWidget {
           title: Text('설정'),
         ),
         body: Column(
-          var loginSelction
+
         ),
 
         floatingActionButton: FloatingActionButton(
