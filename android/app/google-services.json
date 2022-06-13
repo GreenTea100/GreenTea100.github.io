@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362157734706",
+    "project_id": "carlogin-e06e2",
+    "storage_bucket": "carlogin-e06e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362157734706:android:401dcbc4103ac4649df52b",
+        "android_client_info": {
+          "package_name": "com.example.mycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362157734706-0hc059v92gfhqrj68ur2nbce5lga9ja2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPRzJu1KKh57sPmcujc1eLFVejYaZjrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362157734706-0hc059v92gfhqrj68ur2nbce5lga9ja2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
