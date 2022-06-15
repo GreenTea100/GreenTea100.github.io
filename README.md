@@ -97,7 +97,19 @@ Scaffold(
    extendBody: true   //Scaffold안에 extemdBody를 true로 설정해야 했다.
    )
 ```
-<br>
+<br><br>
+<br><br>
+-----
+**22.04.11**<br>
+BottomAppBar를 쓰면 하단에 메뉴가 사라져서 다시 BottomNavigaionBar를 사용했다.<br>
+기존에 BottomNavigaionBar가 작동하지 않았던 원인은 메뉴를 누르면 불러오는 변수 Index를<br>
+위젯을 불러오는 지역 안에서 0으로 초기화하고 있었던 것이다.<br>
+하단이 좁아서 floatingActionButton을 다시 원위치했다.
+
+-----
+**22.06.15**<br>
+서버를 열어서 테스트 값을 넣고 실행했다.<br>
+
 
 
 
